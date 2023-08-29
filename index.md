@@ -9,4 +9,3 @@ layout: home
 ---
 
 <img src="T:\roney.dev/ferragens.png" />
-
