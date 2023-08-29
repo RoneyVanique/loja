@@ -8,4 +8,4 @@
 layout: home
 ---
 
-<img src="/assets/ferragens.png" /> 
+<img src="/assets/ferro.png" /> 
