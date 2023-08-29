@@ -1,11 +1,24 @@
 ---
-#
-# By default, content added below the "---" mark will appear in the home page
-# between the top bar and the list of recent posts.
-# To change the home page layout, edit the _layouts/home.html file.
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-#
-layout: home
+layout: default
 ---
+<p>
+<img class="center" src="/assets/ferro.png" width="100%" align="center" title="Android" alt="Aplicativos para Android" />  
+</p>
 
-<img src="/assets/ferro.png" /> 
+> Ministrante: [**Jario**](https://jario.com.br)         
+> URL: <https://dev.sheet.pt>   
+
+        
+              
+        
+<center> 
+<img class="center" src="/assets/ferro.png" width="190px" align="center" title="Android" alt="Aplicativos para Android" />  
+</center>        
+                  
+
+
+
+Sobre instalação linux leia em <a rel="friend" href="https://server.sheet.pt" title="server linux">server</a>
+<div style="display: block; text-align: center;"> 
+<img class="center" src="/assets/ferro.png" width="100px" align="center" title="QualificaDF" alt="GDF" /> <img class="center" src="/assets/ferragens.jpg" width="100px" align="center" title="PRAXIS EDUCAÇÃO" alt="praxis" />  
+</div> 
