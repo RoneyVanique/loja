@@ -8,5 +8,6 @@
 layout: home
 ---
 
-<img src="/assets/ferragens.jpg" />  
-
+<p>
+<img class="center" src="/assets/ferragens.jpg" width="100%" align="center" title="Android" alt="Aplicativos para Android" />  
+</p>
