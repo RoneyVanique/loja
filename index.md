@@ -7,6 +7,6 @@
 #
 layout: home
 ---
-<p>
+
 <img src="/assets/ferragens.png" />  
-</p>
+
