@@ -8,4 +8,4 @@
 layout: home
 ---
 
-<img src="T:\roney.dev/ferro.png" />
+<img src="/assets/ferro.png" />
