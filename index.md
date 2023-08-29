@@ -8,5 +8,5 @@
 layout: home
 ---
 <p>
-<img class="center" src="/assets/ferragens.jpg" width="100%" align="center" title="loja" alt="loja de ferragens" />  
+<img class="center" src="/assets/ferragens.png" width="100%" align="center" title="loja" alt="loja de ferragens" />  
 </p>
