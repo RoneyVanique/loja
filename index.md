@@ -8,6 +8,5 @@
 layout: home
 ---
 
-
 <img src="/assets/ferragens.jpg" />  
 
