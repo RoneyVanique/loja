@@ -7,7 +7,6 @@
 #
 layout: home
 ---
-
 <p>
-<img class="center" src="/assets/ferragens.jpg" width="100%" align="center" title="Android" alt="Aplicativos para Android" />  
+<img class="center" src="/assets/ferragens.jpg" width="100%" align="center" title="loja" alt="loja de ferragens" />  
 </p>
