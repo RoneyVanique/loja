@@ -1,3 +1,5 @@
+
+
 title: loja de ferragens
 author:
   name: roney costa
@@ -15,8 +17,6 @@ description: >
   
 # Build settings
 
-show_downloads: true
-google_analytics:
 theme: jekyll-theme-hacker
 
 plugins:
@@ -25,7 +25,7 @@ plugins:
 
 # Theme-specific settings
 
-minima:
+jekyll-theme-hacker:
   # Minima date format.
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
   #
